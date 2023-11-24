@@ -1,0 +1,33 @@
+.calc{
+    width: 400px;
+    height: 600px;
+    background-color: grey;
+    margin-left: 400px;
+}
+#screen{
+    height: 50px;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 28px;
+    pointer-events: none;
+}
+.btn{
+    height: 45px;
+    width: 45px;
+    border-radius: 10px;
+    border-color: yellow;
+}
+.row{
+    padding-left: 47px;
+    letter-spacing: 41px;
+    margin-top: 30px;
+    
+}
+.clearbtn{
+    margin-left: 45px;
+    margin-top: 25px;
+    height: 45px;
+    width: 45px;
+    border-radius: 10px;
+    border-color: yellow;
+}
